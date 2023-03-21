@@ -1,8 +1,11 @@
 # supervised_learning
 Predicting customer exit from the bank using machine learning models.
+Prediction is evaluated using F1 score. Measuring AUC-ROC.
 
-
-
+1. Data preview and data preparation.
+2. Class balance research, model fitting without considering the imbalance.
+3. Improving the quality of the model, taking into account the imbalance of classes.
+4. Final testing.
 _____________________________________________________________________________
 Описание проекта:
 Из «Бета-Банка» стали уходить клиенты. Каждый месяц. Немного, но заметно. Банковские маркетологи посчитали: сохранять текущих клиентов дешевле, чем привлекать новых.
